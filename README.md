@@ -17,7 +17,6 @@ Ensure you have Node.js and npm installed on your machine.
 
 1. Clone the repository:
 
-   ```bash
    git clone https://github.com/your-username/react-formik-example.git
    
     1 Navigate to the project directory:
@@ -29,9 +28,7 @@ Ensure you have Node.js and npm installed on your machine.
        npm install
 
    3  Run the development server:
-
-npm start
-Visit http://localhost:3000 in your browser to see the Formik example in action.
+        npm start   Visit http://localhost:3000 in your browser to see the Formik example in action.
 
 ## Contributing
 Feel free to contribute to this project by opening issues or pull requests. Your feedback and contributions are welcome!
